@@ -1,6 +1,6 @@
 # SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis
 
-[**Paper**](https://arxiv.org/abs/2408.12601) | [**Project Page**](https://chen-wl20.github.io/SceneCompleter//)
+[**Paper**](https://arxiv.org/abs/2506.10981) | [**Project Page**](https://chen-wl20.github.io/SceneCompleter//)
 
 > Official implementation of SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis.
 
