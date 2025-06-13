@@ -6,7 +6,7 @@
 
 > [Weiliang Chen](https://chen-wl20.github.io/), Jiayi Bi, [Yuanhui Huang](https://huang-yh.github.io/), [Wenzhao Zheng](https://wzzheng.net/)$\dagger$, [Yueqi Duan](https://duanyueqi.github.io/)$\ddagger$
 
-\ $\dagger$ Project leader $\ddagger$ Corresponding author
+$\dagger$ Project leader $\ddagger$ Corresponding author
 
 <p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
 
@@ -16,11 +16,11 @@ Abstract: *Generative models have gained significant attention in novel view syn
     <img src="assets/teaser.png">
 </p>
 
-## Method
+<!-- ## Method
 We first extract the geometry-appearance clues from the reference view using an unconstrained stereo reconstruction method. Then, we employ a Geometry-Appearance Dual-Stream Diffusion model to generate novel view in 3D space, conditioned on the extracted geometry-appearance clues. After generating the 3D novel view, we align the synthesized geometry with the original 3D structure to achieve 3D scene completion. Notably, this process can be iterated to progressively generate a larger 3D scene.
 <p align="center">
     <img src="assets/pipeline.png">
-</p>
+</p> -->
 
 ## Qualitative Results
 
