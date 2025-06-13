@@ -2,11 +2,11 @@
 
 [**Paper**](https://arxiv.org/abs/2408.12601) | [**Project Page**](https://chen-wl20.github.io/SceneCompleter//)
 
-Official implementation of SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis.
+> Official implementation of SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis.
 
-[Weiliang Chen](https://chen-wl20.github.io/), Jiayi Bi, [Yuanhui Huang](https://huang-yh.github.io/), [Wenzhao Zheng](https://wzzheng.net/)$\dagger$, [Yueqi Duan](https://duanyueqi.github.io/)$\ddagger$
+> [Weiliang Chen](https://chen-wl20.github.io/), Jiayi Bi, [Yuanhui Huang](https://huang-yh.github.io/), [Wenzhao Zheng](https://wzzheng.net/)$\dagger$, [Yueqi Duan](https://duanyueqi.github.io/)$\ddagger$
 
-$\dagger$ Project leader $\ddagger$ Corresponding author
+\ $\dagger$ Project leader $\ddagger$ Corresponding author
 
 <p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
 
