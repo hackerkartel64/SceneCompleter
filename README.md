@@ -46,5 +46,13 @@ Quantitative comparison of zero-shot novel view synthesis on Tanks-and-Temples, 
 ## BibTeX
 
 ```
-
+@misc{chen2025scenecompleterdense3dscene,
+        title={SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis}, 
+        author={Weiliang Chen and Jiayi Bi and Yuanhui Huang and Wenzhao Zheng and Yueqi Duan},
+        year={2025},
+        eprint={2506.10981},
+        archivePrefix={arXiv},
+        primaryClass={cs.CV},
+        url={https://arxiv.org/abs/2506.10981}, 
+  }
 ```
