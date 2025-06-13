@@ -37,8 +37,8 @@ Quantitative comparison of zero-shot novel view synthesis on Tanks-and-Temples, 
     <img src="assets/quantitative_results.png">
 </p>
 
-
-## Acknowledgement
+<!-- 
+## Acknowledgement -->
 
 
 
